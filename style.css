@@ -1,0 +1,29 @@
+.jumbotron {
+    padding-top: 6rem;
+    background-color: #89CFF0;
+}
+
+#education {
+    background-color: #e2edff;
+}
+
+#img-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#experience {
+    background-color: #ffff;
+}
+
+#contact {
+    background-color: #e2edff;
+}
+
+.section {
+    padding-top: 1rem;
+    padding-bottom: 0rem;
+    background-color: #89CFF0;
+    color: #1F51FF;
+}
